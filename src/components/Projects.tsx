@@ -109,7 +109,6 @@ export function Projects() {
               url="fortresswindowsinc.com"
               description="A Toronto window and door installer, 37 years in business. I worked on their live WordPress site as an SEO intern. It now ranks for target keywords in the Canadian market."
               bullets={[
-                'Implemented Google Analytics tracking and Search Console verification',
                 'Structured heading hierarchy across all pages',
                 'Ensured full responsive design for mobile-first indexing',
                 'On-page optimization for local search terms',
