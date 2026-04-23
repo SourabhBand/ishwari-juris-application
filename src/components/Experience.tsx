@@ -9,9 +9,9 @@ const BLOCKS = [
   },
   {
     label: 'Freelance',
-    title: 'End to end, no one in between',
+    title: 'Closer to the client',
     body:
-      "Freelance is where I stopped having someone between me and the client. Kickoff calls, scoping, Figma handoff, feedback loops, follow-up. Also the revenue conversation, which teaches you fast which scope is realistic and which isn't. The two live sites in the Work section are freelance builds, which means I owned everything from the keyword research to the site going live.",
+      "Freelance is where I worked more directly with clients, without an account manager in between. Kickoff calls, scoping, Figma handoff, feedback loops, follow-up. The closer loop has taught me to ask better questions up front, because an unclear brief on day one is not going to get clearer on day fourteen.",
   },
 ];
 

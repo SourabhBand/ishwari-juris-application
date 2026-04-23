@@ -79,7 +79,8 @@ export function Projects() {
             Two sites I&apos;ve worked on.
           </h2>
           <p className="text-charcoal/60 text-center max-w-2xl mx-auto mb-16">
-            Both are live. What I did on each, and the reasoning behind it.
+            Both are live. I worked on them as an SEO intern. What I
+            contributed and how I thought about it.
           </p>
         </AnimateOnScroll>
 
@@ -89,14 +90,13 @@ export function Projects() {
               tag="Design + SEO | Wildlife Tourism"
               title="Junglee Journeys"
               url="junglee-journeys-web.vercel.app"
-              description="A wildlife safari company in India. I led keyword research and structured the page around how safari planners actually think. Which searches lead to booking, which lead to research, and how the content should flow for each. I also handled the design and the build."
+              description="A wildlife safari company in India. Keyword research, site structure, content hierarchy, and the metadata work. I also helped with the UI design in Figma."
               bullets={[
-                'Conducted keyword research that drove page structure and copy decisions',
-                'Wrote SEO metadata (title tags, meta descriptions, OpenGraph)',
+                'Contributed to keyword research that shaped page structure and copy',
+                'Helped write SEO metadata (title tags, meta descriptions, OpenGraph)',
                 'Structured heading hierarchy (H1 > H2 > H3) for crawlability',
                 'Built semantic HTML with proper landmark elements',
                 'Optimized images with next/image for Core Web Vitals',
-                'Designed the full responsive UI in Figma, then built it in Next.js',
               ]}
               gradient="bg-gradient-to-br from-[#081d01] via-[#0d2a05] to-[#e79e23]/30"
             />
@@ -107,7 +107,7 @@ export function Projects() {
               tag="SEO Implementation | Local Business (Canada)"
               title="Fortress Windows"
               url="fortresswindowsinc.com"
-              description="A Toronto window and door installer, 37 years in business. I helped with SEO on their live WordPress site. It now ranks for target keywords in the Canadian market."
+              description="A Toronto window and door installer, 37 years in business. I worked on their live WordPress site as an SEO intern. It now ranks for target keywords in the Canadian market."
               bullets={[
                 'Implemented Google Analytics tracking and Search Console verification',
                 'Structured heading hierarchy across all pages',

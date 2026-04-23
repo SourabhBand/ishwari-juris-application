@@ -5,31 +5,31 @@ const STEPS = [
     number: '01',
     title: 'Research & Audit',
     description:
-      "Start by understanding what's already there. The current site, the competition, what people are searching for. Tools: Search Console, Analytics, Ahrefs, Screaming Frog.",
+      "Before I touch anything, I try to understand the landscape. What's already on the site, what the competition is doing, what people are actually searching for. I've used Search Console, Analytics, Ahrefs, and Screaming Frog for this.",
   },
   {
     number: '02',
     title: 'Strategy & Architecture',
     description:
-      'Match keywords to pages. Plan the hierarchy, the internal links, and the technical fixes. Every decision gets checked against the user experience.',
+      'Match keywords to pages. Sketch the hierarchy, the internal links, and any technical fixes that need to happen. Someone senior usually owns the final call here, but this is the stage where I try to propose, not just execute.',
   },
   {
     number: '03',
     title: 'On-Page Optimization',
     description:
-      'Title tags, meta descriptions, heading structure, alt text, schema. Each element has to work for a reader and a crawler at the same time.',
+      'This is the hands-on part. Title tags, meta descriptions, heading structure, alt text, schema. Each element has to work for a reader and a crawler at the same time.',
   },
   {
     number: '04',
     title: 'Content & Design',
     description:
-      'Write content that answers the question someone actually typed. Design layouts that give them a reason to stay.',
+      'Contribute to content and layout decisions with the keyword intent in mind. Write or edit to answer what someone actually typed. Keep the layout honest about where to click next.',
   },
   {
     number: '05',
     title: 'Measure & Iterate',
     description:
-      "Track rankings, traffic, and conversions. Let the data tell you what to change. SEO isn't a project you finish. It's one you keep showing up to.",
+      "Once a page is live, track rankings, traffic, and conversions. The data tells you what to change next. SEO isn't a project you finish. It's one you keep showing up to.",
   },
 ];
 
@@ -46,7 +46,7 @@ export function Process() {
             id="process-heading"
             className="text-3xl md:text-4xl font-bold text-white text-center mb-16"
           >
-            How I Approach SEO
+            How I think about SEO projects.
           </h2>
         </AnimateOnScroll>
 

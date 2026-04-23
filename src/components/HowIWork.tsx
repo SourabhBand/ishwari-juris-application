@@ -14,7 +14,12 @@ const PRINCIPLES = [
   {
     title: 'Working across teams',
     body:
-      "At the agency I worked with copywriters, developers, account managers, and clients in the same week. Handoffs break down in predictable ways, and I've gotten decent at spotting where they're about to. Clean handoffs make everyone faster.",
+      "At the agency I worked with copywriters, developers, account managers, and clients in the same week. I try to make the next person's job easier by leaving clear notes and asking questions early rather than late.",
+  },
+  {
+    title: 'Fluent with AI and modern tools',
+    body:
+      "I use the tools that are available. Claude and ChatGPT for drafting, pressure-testing ideas, and getting a second read on approaches. Figma and the standard SEO stack for the actual work. Tools don't replace thinking, but they speed it up when used well.",
   },
 ];
 
