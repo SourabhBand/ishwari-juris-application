@@ -16,7 +16,6 @@ const SEO_SKILLS = [
   'Search Console',
   'Google Analytics',
   'Ahrefs',
-  'Screaming Frog',
   'Schema Markup',
   'Local SEO',
 ];

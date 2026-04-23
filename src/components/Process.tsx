@@ -5,7 +5,7 @@ const STEPS = [
     number: '01',
     title: 'Research & Audit',
     description:
-      "Before I touch anything, I try to understand the landscape. What's already on the site, what the competition is doing, what people are actually searching for. I've used Search Console, Analytics, Ahrefs, and Screaming Frog for this.",
+      "Before I touch anything, I try to understand the landscape. What's already on the site, what the competition is doing, what people are actually searching for. I've used Search Console, Analytics, and Ahrefs for this.",
   },
   {
     number: '02',
