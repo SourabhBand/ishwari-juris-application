@@ -23,7 +23,7 @@ export function CTA() {
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-8">
               <a
-                href="mailto:ishwari@example.com"
+                href="mailto:ishwarigupte19@gmail.com"
                 className="px-8 py-3.5 bg-lime text-navy font-semibold rounded-full hover:bg-lime-dark transition-colors text-sm tracking-wide"
               >
                 Email Me

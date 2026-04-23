@@ -5,10 +5,10 @@ export function Footer() {
         <p>Designed & Built by Ishwari Gupte, 2026</p>
         <div className="flex items-center gap-6">
           <a
-            href="mailto:ishwari@example.com"
+            href="mailto:ishwarigupte19@gmail.com"
             className="hover:text-teal transition-colors"
           >
-            Email
+            ishwarigupte19@gmail.com
           </a>
           <a
             href="https://linkedin.com/in/ishwari-gupte"

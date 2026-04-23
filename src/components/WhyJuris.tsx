@@ -29,20 +29,17 @@ export function WhyJuris() {
             </p>
             <p>
               I&apos;ve looked at Juris carefully enough to know the basics.
-              The POD structure, the values listed on the site, the kind of
-              work the team is known for. The more useful reason I&apos;m
-              applying is that someone I trust in the SEO world mentioned Juris
-              unprompted, which says more about a shop than a careers page ever
-              will.
+              The values on the site, the kind of work the team is known for.
+              The real reason I&apos;m applying is that someone I trust in the
+              industry mentioned Juris unprompted. That tells me more than a
+              careers page.
             </p>
             <p>
               The combination I&apos;d like to build a career on is SEO,
               content marketing, and design. Those three are usually separated
               by org charts, but the projects that do well tend to be the ones
-              where they aren&apos;t. The POD structure at Juris is the
-              clearest version of that I&apos;ve seen at the intern-accessible
-              level, which is why I&apos;d like to spend the next year inside
-              it.
+              where they aren&apos;t. Juris is where I&apos;d like to spend the
+              next year, inside a team that already works across those lines.
             </p>
           </div>
         </AnimateOnScroll>

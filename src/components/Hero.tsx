@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import { AnimateOnScroll } from './AnimateOnScroll';
 
 export function Hero() {
@@ -12,7 +13,20 @@ export function Hero() {
       <div className="absolute bottom-0 left-0 w-[300px] h-[300px] bg-lime/5 rounded-full blur-[100px] pointer-events-none" />
 
       <div className="relative z-10 max-w-4xl mx-auto px-6 text-center">
-        <div className="hero-animate" style={{ animationDelay: '0ms' }}>
+        <div className="hero-animate flex justify-center mb-8" style={{ animationDelay: '0ms' }}>
+          <div className="relative w-32 h-32 md:w-36 md:h-36 rounded-full overflow-hidden ring-2 ring-teal/40 shadow-[0_0_40px_rgba(81,219,227,0.25)]">
+            <Image
+              src="/ishwari-gupte.png"
+              alt="Ishwari Gupte"
+              fill
+              sizes="(min-width: 768px) 144px, 128px"
+              className="object-cover"
+              priority
+            />
+          </div>
+        </div>
+
+        <div className="hero-animate" style={{ animationDelay: '100ms' }}>
           <p className="text-teal text-sm md:text-base font-medium tracking-[0.15em] uppercase mb-6">
             SEO Intern Applicant &middot; Juris Digital
           </p>
