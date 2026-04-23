@@ -39,12 +39,10 @@ export function CTA() {
             </div>
 
             <a
-              href="/ishwari-gupte-resume.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/resume"
               className="text-sm text-white/50 hover:text-teal transition-colors underline underline-offset-4"
             >
-              Download Resume (PDF)
+              View Resume
             </a>
           </div>
         </AnimateOnScroll>

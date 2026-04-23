@@ -12,7 +12,7 @@ export function Hero() {
       <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-teal/5 rounded-full blur-[120px] pointer-events-none" />
       <div className="absolute bottom-0 left-0 w-[300px] h-[300px] bg-lime/5 rounded-full blur-[100px] pointer-events-none" />
 
-      {/* Headshot — top-left, aligned with the nav brand */}
+      {/* Headshot, top-left, aligned with the nav brand */}
       <div
         className="hero-animate absolute top-20 md:top-24 left-0 right-0 z-20 pointer-events-none"
         style={{ animationDelay: '0ms' }}
@@ -68,12 +68,10 @@ export function Hero() {
               See My Work
             </a>
             <a
-              href="/ishwari-gupte-resume.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/resume"
               className="px-8 py-3.5 border-2 border-teal text-teal font-semibold rounded-full hover:bg-teal/10 transition-colors text-sm tracking-wide"
             >
-              Download Resume
+              View Resume
             </a>
           </div>
         </div>
