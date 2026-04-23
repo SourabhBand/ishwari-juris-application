@@ -46,11 +46,11 @@ export function WhyJuris() {
 
         <AnimateOnScroll animation="fade-up" delay={300}>
           <blockquote className="mt-8 pl-6 border-l-4 border-teal text-navy text-xl font-medium leading-relaxed">
-            What I&apos;d bring isn&apos;t just help on the task queue. It&apos;s
-            a designer&apos;s eye on the same page an SEO is auditing. I can tell
-            you why a heading isn&apos;t crawlable and why the layout beneath it
-            is hurting conversion. That combination is uncommon, and it&apos;s
-            useful.
+            What I&apos;d bring isn&apos;t a finished SEO strategist in disguise.
+            It&apos;s someone who learns fast, communicates clearly, and has
+            shipped real work with real stakeholders. I&apos;m applying here
+            because this is the kind of careful, high-stakes SEO I want to get
+            good at.
           </blockquote>
         </AnimateOnScroll>
       </div>

@@ -14,7 +14,7 @@ export function Hero() {
       <div className="relative z-10 max-w-4xl mx-auto px-6 text-center">
         <div className="hero-animate" style={{ animationDelay: '0ms' }}>
           <p className="text-teal text-sm md:text-base font-medium tracking-[0.15em] uppercase mb-6">
-            UI/UX Designer &middot; Learning SEO by Building &middot; Applying to Juris Digital
+            SEO Intern Applicant &middot; Juris Digital
           </p>
         </div>
 
@@ -23,19 +23,19 @@ export function Hero() {
             id="hero-heading"
             className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-8 leading-tight"
           >
-            SEO is a{' '}
-            <span className="text-shimmer">design</span>
-            {' '}problem
+            Learning SEO from{' '}
+            <span className="text-shimmer">first principles</span>
             <span className="text-teal animate-pulse">.</span>
           </h1>
         </div>
 
         <div className="hero-animate" style={{ animationDelay: '400ms' }}>
           <p className="text-lg md:text-xl text-white/70 max-w-2xl mx-auto mb-10 leading-relaxed">
-            I&apos;m Ishwari Gupte. I design interfaces, and I&apos;ve been learning SEO
-            by building real sites. Once you look at what Google is actually measuring
-            (speed, readability, structure, whether people stay), most of it turns out
-            to be the same things a good designer is already thinking about.
+            I&apos;m Ishwari Gupte, applying for the SEO Intern role at Juris
+            Digital. I&apos;ve spent the last few years designing and building
+            websites, and that&apos;s how I got curious about SEO. Figuring out
+            why pages rank, or don&apos;t, is what I want to spend the next year
+            getting better at.
           </p>
         </div>
 

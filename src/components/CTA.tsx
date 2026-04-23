@@ -17,8 +17,7 @@ export function CTA() {
               Let&apos;s Talk
             </h2>
             <p className="text-white/60 mb-8 leading-relaxed">
-              I&apos;d like to learn more about the team and show you what
-              design-driven SEO can do for your law firm clients. Email is
+              I&apos;d like to learn more about the team and the work. Email is
               fastest. LinkedIn works too.
             </p>
 

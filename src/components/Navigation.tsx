@@ -4,8 +4,10 @@ import { useEffect, useState } from 'react';
 
 const NAV_LINKS = [
   { label: 'Skills', href: '#skills' },
+  { label: 'Experience', href: '#experience' },
   { label: 'Work', href: '#work' },
   { label: 'Process', href: '#process' },
+  { label: 'How I Work', href: '#how-i-work' },
   { label: 'Why Juris', href: '#why-juris' },
   { label: 'Contact', href: '#contact' },
 ];
@@ -52,12 +54,12 @@ export function Navigation() {
         </a>
 
         {/* Desktop nav */}
-        <div className="hidden md:flex items-center gap-8">
+        <div className="hidden lg:flex items-center gap-6">
           {NAV_LINKS.map((link) => (
             <a
               key={link.href}
               href={link.href}
-              className={`text-sm font-medium transition-colors relative pb-1 ${
+              className={`text-sm font-medium transition-colors relative pb-1 whitespace-nowrap ${
                 activeSection === link.href.slice(1)
                   ? 'text-teal'
                   : 'text-white/80 hover:text-white'
@@ -74,7 +76,7 @@ export function Navigation() {
         {/* Mobile hamburger */}
         <button
           onClick={() => setMobileOpen(!mobileOpen)}
-          className="md:hidden text-white p-2"
+          className="lg:hidden text-white p-2"
           aria-label="Toggle menu"
         >
           <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -89,7 +91,7 @@ export function Navigation() {
 
       {/* Mobile menu */}
       {mobileOpen && (
-        <div className="md:hidden bg-navy/95 backdrop-blur-sm border-t border-white/10">
+        <div className="lg:hidden bg-navy/95 backdrop-blur-sm border-t border-white/10">
           <div className="px-6 py-4 flex flex-col gap-4">
             {NAV_LINKS.map((link) => (
               <a

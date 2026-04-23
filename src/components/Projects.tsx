@@ -89,14 +89,14 @@ export function Projects() {
               tag="Design + SEO | Wildlife Tourism"
               title="Junglee Journeys"
               url="junglee-journeys-web.vercel.app"
-              description="A wildlife safari company in India. I designed the landing page in Figma, then built it in Next.js. The structure came out of keyword research. Which phrases does someone type when they're planning a safari, and can the page answer them in the order a planner actually thinks?"
+              description="A wildlife safari company in India. I led keyword research and structured the page around how safari planners actually think. Which searches lead to booking, which lead to research, and how the content should flow for each. I also handled the design and the build."
               bullets={[
-                'Designed the full responsive UI in Figma, then built it in Next.js',
-                'Structured heading hierarchy (H1 > H2 > H3) for crawlability',
+                'Conducted keyword research that drove page structure and copy decisions',
                 'Wrote SEO metadata (title tags, meta descriptions, OpenGraph)',
-                'Optimized images with next/image for Core Web Vitals',
+                'Structured heading hierarchy (H1 > H2 > H3) for crawlability',
                 'Built semantic HTML with proper landmark elements',
-                'Conducted keyword research to inform page structure and copy',
+                'Optimized images with next/image for Core Web Vitals',
+                'Designed the full responsive UI in Figma, then built it in Next.js',
               ]}
               gradient="bg-gradient-to-br from-[#081d01] via-[#0d2a05] to-[#e79e23]/30"
             />

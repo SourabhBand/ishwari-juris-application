@@ -8,9 +8,9 @@ const PILLARS = [
         <circle cx="29" cy="24" r="12" stroke="#51DBE3" strokeWidth="2" fill="none" />
       </svg>
     ),
-    title: 'UX Is SEO',
+    title: 'Users, not algorithms',
     description:
-      "Google is mostly trying to figure out if a user is having a good time. That's what Core Web Vitals, E-E-A-T, and the helpful-content guidelines all come down to. Design is the thing that decides the answer, so design is where most of the work sits.",
+      "Google's job is to find the page that best satisfies whoever typed a query. Most of SEO is trying to be that page. Which means understanding who's searching, what they're hoping to find, and whether the page you've built actually answers them.",
   },
   {
     icon: (
@@ -20,9 +20,9 @@ const PILLARS = [
         <path d="M28 10L20 38" stroke="#51DBE3" strokeWidth="2" strokeLinecap="round" />
       </svg>
     ),
-    title: 'Technical Eye',
+    title: 'Reading the technical layer',
     description:
-      "Clean HTML is just legible thinking. A heading hierarchy is the same outline I'd sketch in a wireframe, written where a crawler can read it. I don't treat markup as a separate technical concern. It's part of how the design gets built.",
+      "Crawlability, page speed, heading hierarchy, structured data. These aren't buzzwords I've memorized. They're decisions with consequences I've debugged on live sites. When something isn't ranking, I can usually read the technical layer well enough to figure out why.",
   },
   {
     icon: (
@@ -32,9 +32,9 @@ const PILLARS = [
         <path d="M34 32L38 36" stroke="#51DBE3" strokeWidth="2" strokeLinecap="round" />
       </svg>
     ),
-    title: 'Content That Connects',
+    title: 'Content that earns its keywords',
     description:
-      "Keywords are the words people already type when they want what you offer. Figuring out which ones, then making sure the page actually answers them, is most of on-page SEO. I've done the sitemap work, the meta descriptions, and internal linking on real client sites.",
+      "Keywords are just the words people type when they need something. The real work is figuring out which ones you can plausibly answer, and structuring the page so the answer is obvious to both the reader and the crawler. I've done keyword research, mapped site structures, and written meta descriptions for live sites.",
   },
 ];
 
@@ -51,8 +51,8 @@ export function ValueProp() {
             id="value-heading"
             className="text-2xl md:text-3xl lg:text-4xl font-bold text-navy text-center max-w-3xl mx-auto mb-16 leading-snug"
           >
-            A page ranks when users like it.{' '}
-            <span className="text-teal">Design decides that.</span>
+            Three things I keep noticing about SEO.{' '}
+            <span className="text-teal">They all come back to the user.</span>
           </h2>
         </AnimateOnScroll>
 

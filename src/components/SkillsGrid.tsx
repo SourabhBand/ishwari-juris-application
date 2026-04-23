@@ -36,7 +36,9 @@ const SKILL_CATEGORIES = [
     color: 'white',
     skills: [
       'Agency Experience',
+      'Freelance Experience',
       'Client Communication',
+      'Stakeholder Management',
       'Content Publishing',
       'Project Management',
       'Self-Directed Learning',
