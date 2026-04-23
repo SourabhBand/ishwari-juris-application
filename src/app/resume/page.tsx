@@ -26,8 +26,6 @@ const DESIGN_SKILLS = [
   'Adobe Illustrator',
   'Photoshop',
   'After Effects',
-  'Next.js',
-  'HTML/CSS',
   'WordPress',
   'Claude',
   'ChatGPT',
