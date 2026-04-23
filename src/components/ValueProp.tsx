@@ -10,7 +10,7 @@ const PILLARS = [
     ),
     title: 'UX Is SEO',
     description:
-      "Google's Core Web Vitals, E-E-A-T, and helpful content guidelines all point to the same thing: user experience. My design training means I instinctively build for engagement, readability, and conversion. These are the signals Google rewards.",
+      "Google is mostly trying to figure out if a user is having a good time. That's what Core Web Vitals, E-E-A-T, and the helpful-content guidelines all come down to. Design is the thing that decides the answer, so design is where most of the work sits.",
   },
   {
     icon: (
@@ -22,7 +22,7 @@ const PILLARS = [
     ),
     title: 'Technical Eye',
     description:
-      'I understand semantic HTML, heading hierarchy, image optimization, and page speed. Not as abstract concepts, but as design decisions I make every day. Clean markup is second nature.',
+      "Clean HTML is just legible thinking. A heading hierarchy is the same outline I'd sketch in a wireframe, written where a crawler can read it. I don't treat markup as a separate technical concern. It's part of how the design gets built.",
   },
   {
     icon: (
@@ -34,7 +34,7 @@ const PILLARS = [
     ),
     title: 'Content That Connects',
     description:
-      'From keyword research to on-page optimization, I approach content with both the user and the algorithm in mind. I\'ve structured sitemaps, written meta descriptions, and mapped internal links for real client sites.',
+      "Keywords are the words people already type when they want what you offer. Figuring out which ones, then making sure the page actually answers them, is most of on-page SEO. I've done the sitemap work, the meta descriptions, and internal linking on real client sites.",
   },
 ];
 
@@ -51,8 +51,8 @@ export function ValueProp() {
             id="value-heading"
             className="text-2xl md:text-3xl lg:text-4xl font-bold text-navy text-center max-w-3xl mx-auto mb-16 leading-snug"
           >
-            Most SEOs Can&apos;t Design. Most Designers Don&apos;t Think About Search.{' '}
-            <span className="text-teal">I Do Both.</span>
+            A page ranks when users like it.{' '}
+            <span className="text-teal">Design decides that.</span>
           </h2>
         </AnimateOnScroll>
 

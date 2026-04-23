@@ -76,11 +76,10 @@ export function Projects() {
             id="work-heading"
             className="text-3xl md:text-4xl font-bold text-navy text-center mb-4"
           >
-            Real Sites. Real SEO.
+            Two sites I&apos;ve worked on.
           </h2>
           <p className="text-charcoal/60 text-center max-w-2xl mx-auto mb-16">
-            I recently led the SEO-informed design process for two live websites.
-            Here&apos;s what I did and how I thought about it.
+            Both are live. What I did on each, and the reasoning behind it.
           </p>
         </AnimateOnScroll>
 
@@ -90,9 +89,9 @@ export function Projects() {
               tag="Design + SEO | Wildlife Tourism"
               title="Junglee Journeys"
               url="junglee-journeys-web.vercel.app"
-              description="A luxury wildlife safari company in India. I designed and built a premium landing page with rich scroll animations, optimized image delivery, and content architecture structured around target keywords."
+              description="A wildlife safari company in India. I designed the landing page in Figma, then built it in Next.js. The structure came out of keyword research. Which phrases does someone type when they're planning a safari, and can the page answer them in the order a planner actually thinks?"
               bullets={[
-                'Designed full responsive UI in Figma, then built pixel-perfect in Next.js',
+                'Designed the full responsive UI in Figma, then built it in Next.js',
                 'Structured heading hierarchy (H1 > H2 > H3) for crawlability',
                 'Wrote SEO metadata (title tags, meta descriptions, OpenGraph)',
                 'Optimized images with next/image for Core Web Vitals',
@@ -108,7 +107,7 @@ export function Projects() {
               tag="SEO Implementation | Local Business (Canada)"
               title="Fortress Windows"
               url="fortresswindowsinc.com"
-              description="A Toronto-based window and door installation company with 37+ years in business. I assisted with SEO implementation for a live WordPress site that now ranks for targeted keywords in Canada."
+              description="A Toronto window and door installer, 37 years in business. I helped with SEO on their live WordPress site. It now ranks for target keywords in the Canadian market."
               bullets={[
                 'Implemented Google Analytics tracking and Search Console verification',
                 'Structured heading hierarchy across all pages',

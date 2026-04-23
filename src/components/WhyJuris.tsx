@@ -20,36 +20,37 @@ export function WhyJuris() {
         <AnimateOnScroll animation="fade-up" delay={150}>
           <div className="space-y-6 text-charcoal/80 leading-relaxed text-lg">
             <p>
-              Legal marketing fascinates me because it&apos;s high-stakes,
-              high-intent, and deeply local. Exactly the kind of SEO challenge
-              where precision matters most.
+              Legal marketing is interesting because the stakes are real.
+              Someone searching for a tax attorney at 11pm is not browsing.
+              They have a problem, and the page that answers them best usually
+              wins. That&apos;s the kind of SEO where the details matter.
             </p>
             <p>
-              What draws me to Juris Digital specifically is the culture.
-              Your core values of empathy, honesty, and quality aren&apos;t
-              just words on a page. They show up in how you structure
-              client relationships: eliminating uncertainty, communicating
-              proactively, and treating every engagement as a partnership.
-              That resonates deeply with my design philosophy, where every
-              decision should have a reason and every result should be visible.
+              What drew me to Juris specifically was reading your core values
+              and noticing they were doing real work in the copy, not just
+              sitting on an About page. Empathy, honesty, quality. You can see
+              them in how you describe client relationships: eliminating
+              uncertainty, communicating proactively, treating engagements as
+              partnerships. That maps cleanly to how I think about design.
+              Every decision should have a reason you can explain.
             </p>
             <p>
-              I&apos;m drawn to your POD structure because it means real
-              mentorship and collaboration, not just being handed tasks in
-              isolation. I&apos;ve worked both agency-side and freelance, and
-              I know the value of learning within a team that&apos;s invested
-              in growing its people.
+              The POD structure is the other reason. I&apos;ve worked both
+              agency-side and freelance, and the clearest thing I&apos;ve
+              learned is that you grow much faster inside a team that&apos;s
+              actively teaching you. A group that&apos;s invested in its people
+              is where I&apos;d like to spend the next year.
             </p>
           </div>
         </AnimateOnScroll>
 
         <AnimateOnScroll animation="fade-up" delay={300}>
           <blockquote className="mt-8 pl-6 border-l-4 border-teal text-navy text-xl font-medium leading-relaxed">
-            What I&apos;d bring as an intern isn&apos;t just another pair of hands.
-            It&apos;s a design perspective that most SEO teams lack. I can audit a
-            page for technical SEO and also tell you why the layout is killing
-            your conversion rate. That&apos;s the kind of cross-functional thinking
-            that makes campaigns succeed.
+            What I&apos;d bring isn&apos;t just help on the task queue. It&apos;s
+            a designer&apos;s eye on the same page an SEO is auditing. I can tell
+            you why a heading isn&apos;t crawlable and why the layout beneath it
+            is hurting conversion. That combination is uncommon, and it&apos;s
+            useful.
           </blockquote>
         </AnimateOnScroll>
       </div>

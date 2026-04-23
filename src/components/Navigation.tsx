@@ -7,7 +7,7 @@ const NAV_LINKS = [
   { label: 'Work', href: '#work' },
   { label: 'Process', href: '#process' },
   { label: 'Why Juris', href: '#why-juris' },
-  { label: "Let's Talk", href: '#contact' },
+  { label: 'Contact', href: '#contact' },
 ];
 
 export function Navigation() {

@@ -64,7 +64,7 @@ export function SkillsGrid() {
             id="skills-heading"
             className="text-3xl md:text-4xl font-bold text-white text-center mb-16"
           >
-            What I Bring to the Table
+            Things I can do today.
           </h2>
         </AnimateOnScroll>
 

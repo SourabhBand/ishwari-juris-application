@@ -17,9 +17,9 @@ export function CTA() {
               Let&apos;s Talk
             </h2>
             <p className="text-white/60 mb-8 leading-relaxed">
-              I&apos;d love to learn more about the team at Juris Digital and show
-              you how design-driven SEO can move the needle for your law firm
-              clients.
+              I&apos;d like to learn more about the team and show you what
+              design-driven SEO can do for your law firm clients. Email is
+              fastest. LinkedIn works too.
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-8">
@@ -52,10 +52,10 @@ export function CTA() {
 
         <AnimateOnScroll animation="fade-in" delay={400}>
           <p className="mt-8 text-center text-xs text-white/30 max-w-lg mx-auto leading-relaxed">
-            P.S. This entire page was designed and built by me in Next.js with
-            Tailwind CSS. Check the source: semantic HTML, proper heading
-            hierarchy, optimized images, and structured data. The portfolio is
-            the proof.
+            P.S. This page is its own writing sample. I designed and built it
+            in Next.js with Tailwind. If you view the source, you&apos;ll find
+            semantic HTML, a proper heading hierarchy, optimized images, and
+            structured data. I wanted the portfolio to be the proof.
           </p>
         </AnimateOnScroll>
       </div>

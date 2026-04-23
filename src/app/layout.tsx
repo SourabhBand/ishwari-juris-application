@@ -12,18 +12,18 @@ const lexend = Lexend({
 export const metadata: Metadata = {
   title: "Ishwari Gupte | SEO Intern Application - Juris Digital",
   description:
-    "UI/UX designer and SEO strategist applying for the SEO Intern role at Juris Digital. Design-driven SEO for law firm marketing.",
+    "UI/UX designer applying for the SEO Intern role at Juris Digital. I think SEO is mostly a design problem, and this page is my argument for that.",
   metadataBase: new URL("https://ishwari-juris.vercel.app"),
   openGraph: {
     title: "Ishwari Gupte | SEO Intern Application - Juris Digital",
     description:
-      "Design that ranks. A UI/UX designer who builds pages that look beautiful, load fast, and get found.",
+      "SEO is mostly a design problem. A UI/UX designer's application for the Juris Digital intern role.",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
     title: "Ishwari Gupte | SEO Intern Application",
-    description: "Design-driven SEO for law firm marketing.",
+    description: "SEO is mostly a design problem. Application for the Juris Digital intern role.",
   },
   robots: { index: false, follow: false },
 };

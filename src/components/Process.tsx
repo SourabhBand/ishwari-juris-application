@@ -5,31 +5,31 @@ const STEPS = [
     number: '01',
     title: 'Research & Audit',
     description:
-      'Analyze the current site, competitors, and keyword landscape. Tools: Google Search Console, Analytics, Ahrefs, Screaming Frog.',
+      "Start by understanding what's already there. The current site, the competition, what people are searching for. Tools: Search Console, Analytics, Ahrefs, Screaming Frog.",
   },
   {
     number: '02',
     title: 'Strategy & Architecture',
     description:
-      'Map keywords to pages. Plan content hierarchy, internal linking, and technical fixes. UX informs every decision.',
+      'Match keywords to pages. Plan the hierarchy, the internal links, and the technical fixes. Every decision gets checked against the user experience.',
   },
   {
     number: '03',
     title: 'On-Page Optimization',
     description:
-      'Title tags, meta descriptions, heading structure, image alt text, schema markup. Every element serves both users and crawlers.',
+      'Title tags, meta descriptions, heading structure, alt text, schema. Each element has to work for a reader and a crawler at the same time.',
   },
   {
     number: '04',
     title: 'Content & Design',
     description:
-      'Create content that satisfies search intent while being visually engaging. Design layouts that improve dwell time and reduce bounce rate.',
+      'Write content that answers the question someone actually typed. Design layouts that give them a reason to stay.',
   },
   {
     number: '05',
     title: 'Measure & Iterate',
     description:
-      'Track rankings, traffic, and conversions. Use data to refine the approach. SEO is never done.',
+      "Track rankings, traffic, and conversions. Let the data tell you what to change. SEO isn't a project you finish. It's one you keep showing up to.",
   },
 ];
 
