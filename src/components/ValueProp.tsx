@@ -15,18 +15,6 @@ const PILLARS = [
   {
     icon: (
       <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M14 12L8 24L14 36" stroke="#51DBE3" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
-        <path d="M34 12L40 24L34 36" stroke="#51DBE3" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
-        <path d="M28 10L20 38" stroke="#51DBE3" strokeWidth="2" strokeLinecap="round" />
-      </svg>
-    ),
-    title: 'Reading the technical layer',
-    description:
-      "Crawlability, page speed, heading hierarchy, structured data. These aren't buzzwords I've memorized. They're decisions with consequences I've debugged on live sites. When something isn't ranking, I can usually read the technical layer well enough to figure out why.",
-  },
-  {
-    icon: (
-      <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M10 34L10 18C10 16.9 10.9 16 12 16H20L22 20H36C37.1 20 38 20.9 38 22V34C38 35.1 37.1 36 36 36H12C10.9 36 10 35.1 10 34Z" stroke="#51DBE3" strokeWidth="2" fill="none" />
         <circle cx="30" cy="28" r="5" stroke="#51DBE3" strokeWidth="2" fill="none" />
         <path d="M34 32L38 36" stroke="#51DBE3" strokeWidth="2" strokeLinecap="round" />
@@ -51,12 +39,12 @@ export function ValueProp() {
             id="value-heading"
             className="text-2xl md:text-3xl lg:text-4xl font-bold text-navy text-center max-w-3xl mx-auto mb-16 leading-snug"
           >
-            Three things I keep noticing about SEO.{' '}
-            <span className="text-teal">They all come back to the user.</span>
+            Two things I keep noticing about SEO.{' '}
+            <span className="text-teal">They both come back to the user.</span>
           </h2>
         </AnimateOnScroll>
 
-        <div className="grid md:grid-cols-3 gap-8 md:gap-12">
+        <div className="grid md:grid-cols-2 gap-8 md:gap-12 max-w-4xl mx-auto">
           {PILLARS.map((pillar, i) => (
             <AnimateOnScroll key={pillar.title} animation="fade-up" delay={i * 150}>
               <div className="text-center md:text-left">
