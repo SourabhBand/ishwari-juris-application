@@ -55,9 +55,8 @@ const EXPERIENCE = [
     dates: '2025',
     bullets: [
       'Contributed to keyword research that shaped page structure and copy',
-      'On-page SEO: metadata, heading hierarchy, semantic HTML',
-      'Image optimization with next/image for Core Web Vitals',
-      'Helped with the UI design in Figma',
+      'On-page SEO: metadata and heading hierarchy',
+      'Contributed to typography, layout, and responsive design in Figma',
     ],
   },
   {

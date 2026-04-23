@@ -93,10 +93,9 @@ export function Projects() {
               description="A wildlife safari company in India. Keyword research, site structure, content hierarchy, and the metadata work. I also helped with the UI design in Figma."
               bullets={[
                 'Contributed to keyword research that shaped page structure and copy',
-                'Helped write SEO metadata (title tags, meta descriptions, OpenGraph)',
+                'Helped write SEO metadata (title tags, meta descriptions)',
                 'Structured heading hierarchy (H1 > H2 > H3) for crawlability',
-                'Built semantic HTML with proper landmark elements',
-                'Optimized images with next/image for Core Web Vitals',
+                'Contributed to typography, layout, and responsive design in Figma',
               ]}
               gradient="bg-gradient-to-br from-[#081d01] via-[#0d2a05] to-[#e79e23]/30"
             />
