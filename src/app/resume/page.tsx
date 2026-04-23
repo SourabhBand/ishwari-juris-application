@@ -53,7 +53,7 @@ const EXPERIENCE = [
     ],
   },
   {
-    role: 'SEO Intern',
+    role: 'UI/UX Designer / SEO Intern',
     company: 'Junglee Journeys',
     dates: '2025',
     bullets: [
@@ -64,7 +64,7 @@ const EXPERIENCE = [
     ],
   },
   {
-    role: 'SEO Intern',
+    role: 'UI/UX Designer / SEO Intern',
     company: 'Fortress Windows (Toronto)',
     dates: '2024 – 2025',
     bullets: [
@@ -87,7 +87,7 @@ const EXPERIENCE = [
     company: 'Various clients',
     dates: '2018 – Present',
     bullets: [
-      'Current freelance engagement: Final Funnel',
+      'Current freelance engagement: Brnd.me',
       'UI design: TrooCheck, Khel Kabaddi, FoodZilla, LeonStride, Sapper',
       'Communication and UX design: LTIMindtree',
       'Brand and graphic design: Affinity X, MyAmichi, Radon, Memahaut',
