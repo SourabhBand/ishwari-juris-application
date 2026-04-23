@@ -38,8 +38,8 @@ export function WhyJuris() {
               The combination I&apos;d like to build a career on is SEO,
               content marketing, and design. Those three are usually separated
               by org charts, but the projects that do well tend to be the ones
-              where they aren&apos;t. Juris is where I&apos;d like to spend the
-              next year, inside a team that already works across those lines.
+              where they aren&apos;t. Juris is where I&apos;d like to do that
+              work, inside a team that already crosses those lines.
             </p>
           </div>
         </AnimateOnScroll>

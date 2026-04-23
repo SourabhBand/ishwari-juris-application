@@ -54,7 +54,7 @@ export function Hero() {
             I&apos;m Ishwari Gupte, applying for the SEO Intern role at Juris
             Digital. I&apos;ve spent the last few years designing and building
             websites, and that&apos;s how I got curious about SEO. Figuring out
-            why pages rank, or don&apos;t, is what I want to spend the next year
+            why pages rank, or don&apos;t, is the problem I want to keep
             getting better at.
           </p>
         </div>

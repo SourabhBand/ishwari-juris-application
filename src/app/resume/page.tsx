@@ -236,8 +236,8 @@ export default function ResumePage() {
               identities, and product packaging. That work is how I got curious
               about SEO. The closer you look at any page on the web, the more
               design and ranking turn out to be deciding the same thing:
-              whether the user stays. I&apos;d like to spend the next year
-              sharpening the SEO side of that story at Juris Digital.
+              whether the user stays. I&apos;d like to sharpen the SEO side of
+              that story at Juris Digital.
             </p>
           </header>
 
