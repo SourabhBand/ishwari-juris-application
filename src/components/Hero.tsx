@@ -79,12 +79,6 @@ export function Hero() {
         </div>
       </div>
 
-      {/* Scroll indicator */}
-      <div className="absolute bottom-8 left-1/2 -translate-x-1/2">
-        <div className="w-6 h-10 border-2 border-white/30 rounded-full flex justify-center pt-2">
-          <div className="w-1.5 h-1.5 bg-teal rounded-full animate-bounce" />
-        </div>
-      </div>
     </section>
   );
 }
