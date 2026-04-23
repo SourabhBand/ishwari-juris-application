@@ -6,26 +6,32 @@ export function Hero() {
     <section
       id="hero"
       aria-labelledby="hero-heading"
-      className="relative min-h-screen flex items-center justify-center bg-navy dot-pattern overflow-hidden"
+      className="relative min-h-screen flex items-center justify-center bg-navy dot-pattern overflow-hidden pt-28 md:pt-24"
     >
       {/* Teal glow accent */}
       <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-teal/5 rounded-full blur-[120px] pointer-events-none" />
       <div className="absolute bottom-0 left-0 w-[300px] h-[300px] bg-lime/5 rounded-full blur-[100px] pointer-events-none" />
 
-      <div className="relative z-10 max-w-4xl mx-auto px-6 text-center">
-        <div className="hero-animate flex justify-center mb-8" style={{ animationDelay: '0ms' }}>
-          <div className="relative w-32 h-32 md:w-36 md:h-36 rounded-full overflow-hidden ring-2 ring-teal/40 shadow-[0_0_40px_rgba(81,219,227,0.25)]">
+      {/* Headshot — top-left, aligned with the nav brand */}
+      <div
+        className="hero-animate absolute top-20 md:top-24 left-0 right-0 z-20 pointer-events-none"
+        style={{ animationDelay: '0ms' }}
+      >
+        <div className="max-w-6xl mx-auto px-6">
+          <div className="relative inline-block w-20 h-20 md:w-24 md:h-24 lg:w-28 lg:h-28 rounded-full overflow-hidden ring-2 ring-teal/40 shadow-[0_0_40px_rgba(81,219,227,0.25)] pointer-events-auto">
             <Image
               src="/ishwari-gupte.png"
               alt="Ishwari Gupte"
               fill
-              sizes="(min-width: 768px) 144px, 128px"
+              sizes="(min-width: 1024px) 112px, (min-width: 768px) 96px, 80px"
               className="object-cover"
               priority
             />
           </div>
         </div>
+      </div>
 
+      <div className="relative z-10 max-w-4xl mx-auto px-6 text-center">
         <div className="hero-animate" style={{ animationDelay: '100ms' }}>
           <p className="text-teal text-sm md:text-base font-medium tracking-[0.15em] uppercase mb-6">
             SEO Intern Applicant &middot; Juris Digital
