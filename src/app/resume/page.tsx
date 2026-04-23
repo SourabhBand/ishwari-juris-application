@@ -76,7 +76,7 @@ const EXPERIENCE = [
     dates: '2022 – 2024',
     bullets: [
       'Social media marketing design and graphic design',
-      'Brands: Volkswagen, Royal Enfield, Flipkart, Clean & Clear, Signature, Royal Challengers Bangalore',
+      'Brands: Volkswagen, Royal Enfield, Flipkart, Clean & Clear, Signature, Royal Challenge',
     ],
   },
   {
